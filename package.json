@@ -1,0 +1,9 @@
+{
+  "name": "roxopay-simulador-ficticio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulador educacional de transferências fictícias entre usuários",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
